@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanPGarzonC
-- 👀 I’m interested in web and desktop develoment
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on PHP projects
+- 👀 I’m interested in web and desktop develoment.
+- 🌱 I’m currently learning python, php and javascript.
+- 💞️ I’m looking to collaborate on projects where QA is required.
 - 📫 How to reach me juanpablogarzoncub@gmail.com
 
 <!---
